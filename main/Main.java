@@ -1,4 +1,4 @@
-package manuel;
+package main;
 
 import javax.swing.JFrame;
 
